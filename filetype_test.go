@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/h2non/filetype/types"
+	"github.com/leslie-wang/filetype/types"
 )
 
 func TestConcurrent(t *testing.T) {
