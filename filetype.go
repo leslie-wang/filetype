@@ -3,8 +3,8 @@ package filetype
 import (
 	"errors"
 
-	"github.com/h2non/filetype/matchers"
-	"github.com/h2non/filetype/types"
+	"github.com/leslie-wang/filetype/matchers"
+	"github.com/leslie-wang/filetype/types"
 )
 
 // Types stores a map of supported types
